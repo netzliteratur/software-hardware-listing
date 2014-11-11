@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Naming convention: National Software Reference Library -->
+<swhwCatalog>
+  <!--Software Section -->
+  <swEntries>
+	<swEntry>
+	  <swID>0</swID>
+	  <swManufacturer>Adobe Systems Incorporated</swManufacturer>
+	  <swName>Adobe Reader</swName>
+	  <swVersion>9.5.5</swVersion>
+	  <!-- Types: renderer, ancillary, operating system, driver, server, editor-->
+	  <swType>renderer</swType>
+	  <swDependency />
+	  <!-- Year Published -->
+	  <swYear>2010</swYear>
+	  <swSupportedFormats>
+		<!-- PRONOM Registry Keys -->
+		<swSupportedFormat>fmt/14</swSupportedFormat>
+		<swSupportedFormat>fmt/15</swSupportedFormat>
+		<swSupportedFormat>fmt/16</swSupportedFormat>
+		<swSupportedFormat>fmt/17</swSupportedFormat>
+		<swSupportedFormat>fmt/18</swSupportedFormat>
+		<swSupportedFormat>fmt/19</swSupportedFormat>
+		<swSupportedFormat>fmt/20</swSupportedFormat>
+		<swSupportedFormat>fmt/95</swSupportedFormat>
+		<swSupportedFormat>fmt/144</swSupportedFormat>
+		<swSupportedFormat>fmt/145</swSupportedFormat>
+		<swSupportedFormat>fmt/146</swSupportedFormat>
+		<swSupportedFormat>fmt/147</swSupportedFormat>
+		<swSupportedFormat>fmt/148</swSupportedFormat>
+		<swSupportedFormat>fmt/157</swSupportedFormat>
+		<swSupportedFormat>fmt/158</swSupportedFormat>
+		<swSupportedFormat>fmt/276</swSupportedFormat>
+		<swSupportedFormat>fmt/354</swSupportedFormat>
+		<swSupportedFormat>fmt/476</swSupportedFormat>
+		<swSupportedFormat>fmt/477</swSupportedFormat>
+		<swSupportedFormat>fmt/478</swSupportedFormat>
+		<swSupportedFormat>fmt/479</swSupportedFormat>
+		<swSupportedFormat>fmt/480</swSupportedFormat>
+		<swSupportedFormat>fmt/481</swSupportedFormat>
+		<swSupportedFormat>fmt/488</swSupportedFormat>
+		<swSupportedFormat>fmt/489</swSupportedFormat>
+		<swSupportedFormat>fmt/490</swSupportedFormat>
+		<swSupportedFormat>fmt/491</swSupportedFormat>
+		<swSupportedFormat>fmt/492</swSupportedFormat>
+		<swSupportedFormat>fmt/493</swSupportedFormat>
+	  </swSupportedFormats>
+	</swEntry>
+	<swEntry>
+	  <swID>1</swID>
+	  <swManufacturer>Internet Archive</swManufacturer>
+	  <swName>wayback</swName>
+	  <swVersion>1.6.0</swVersion>
+	  <!-- Types: renderer, ancillary, operating system, driver, server, editor -->
+	  <swType>server</swType>
+	  <swDependency />
+	  <!-- Year Published -->
+	  <swYear>2011</swYear>
+	  <swSupportedFormats>
+		<!-- PRONOM Registry Keys -->
+		<swSupportedFormat>fmt/289</swSupportedFormat>
+	  </swSupportedFormats>
+	</swEntry>
+	<swEntry>
+	  <swID>2</swID>
+	  <swManufacturer>Free Software Foundation, Inc.</swManufacturer>
+	  <swName>GNU tar</swName>
+	  <swVersion>1.28</swVersion>
+	  <!-- Types: renderer, ancillary, operating system, driver, server, editor, archiver -->
+	  <swType>archiver</swType>
+	  <swDependency />
+	  <!-- Year Published -->
+	  <swYear>2014</swYear>
+	  <swSupportedFormats>
+		<!-- PRONOM Registry Keys -->
+		<swSupportedFormat>fmt/265</swSupportedFormat>
+		<swSupportedFormat>fmt/266</swSupportedFormat>
+	  </swSupportedFormats>
+	</swEntry>
+	<swEntry>
+	  <swID>3</swID>
+	  <swManufacturer></swManufacturer>
+	  <swName>feh</swName>
+	  <swVersion></swVersion>
+	  <!-- Types: renderer, ancillary, operating system, driver, server, editor -->
+	  <swType>renderer</swType>
+	  <swDependency />
+	  <!-- Year Published -->
+	  <swYear>2014</swYear>
+	  <swSupportedFormats>
+		<!-- PRONOM Registry Keys -->
+		<swSupportedFormat></swSupportedFormat>
+	  </swSupportedFormats>
+	</swEntry>
+  </swEntries>
+  <!--Hardware Section -->
+  <hwEntries>
+	<hwEntry>
+	  <hwID>0</hwID>
+	  <hwManufacturer>Fujitsu</hwManufacturer>
+	  <hwName>P24W-6 LED</hwName>
+	  <hwType>Display</hwType>
+	  <hwOtherInformation>Video-Input: DVI-D (HDCP)</hwOtherInformation>
+	</hwEntry>
+  </hwEntries>
+</swhwCatalog>
